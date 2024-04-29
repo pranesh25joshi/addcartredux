@@ -17,12 +17,12 @@ const Cart = () => {
                     {/* <img src={product.image} alt={product.title} className='w-1/4' /> */}
                     <CardOverflow>
                         <AspectRatio sx={{ minWidth: 200 }}>
-          <img
-            src={product.image}
-            srcSet={product.image}
-            loading="lazy"
-            alt=""
-          />
+                            <img
+                                src={product.image}
+                                srcSet={product.image}
+                                loading="lazy"
+                                alt=""
+                            />
                         </AspectRatio>
                     </CardOverflow>
                     <div className='flex flex-col gap-7'>
