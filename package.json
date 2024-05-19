@@ -16,6 +16,7 @@
     "@mui/icons-material": "^5.15.15",
     "@mui/joy": "^5.0.0-beta.36",
     "@nextui-org/react": "^2.3.5",
+    "@radix-ui/react-slot": "^1.0.2",
     "@reduxjs/toolkit": "^2.2.3",
     "axios": "^1.6.8",
     "clsx": "^2.1.1",
